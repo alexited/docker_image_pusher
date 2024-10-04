@@ -1,3 +1,3 @@
 teddy-docker
 nginx
-linuxserver/kavita:0.8.3
+--platform linux/arm64 linuxserver/kavita:0.8.3
